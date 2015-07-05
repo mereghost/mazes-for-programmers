@@ -1,0 +1,14 @@
+{
+	"category" : "MazesForProgrammers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"walls" ],
+	"name" : "Cell",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

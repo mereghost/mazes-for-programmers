@@ -1,0 +1,14 @@
+{
+	"category" : "MazesForProgrammers-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "GridTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

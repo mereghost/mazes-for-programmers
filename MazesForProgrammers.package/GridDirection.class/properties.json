@@ -1,0 +1,14 @@
+{
+	"category" : "MazesForProgrammers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GridDirection",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
