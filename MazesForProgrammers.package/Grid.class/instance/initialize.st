@@ -1,4 +1,4 @@
 initialization
 initialize
 	super initialize.
-	cells := Dictionary new
+	cells:= OrderedDictionary new.

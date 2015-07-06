@@ -1,13 +1,15 @@
 {
-	"category" : "MazesForProgrammers-Generators",
+	"category" : "MazesForProgrammers-Renderers",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "BinaryTree",
+		"bottomBuffer",
+		"gridBuffer",
+		"bodyBuffer" ],
+	"name" : "TextRenderer",
 	"pools" : [
 		 ],
 	"super" : "Object",
