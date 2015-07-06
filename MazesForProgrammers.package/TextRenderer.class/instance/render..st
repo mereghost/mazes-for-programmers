@@ -4,7 +4,7 @@ render: aGrid
 	bodyBuffer nextPut: $|.
 	bottomBuffer nextPut: $+.
 	aGrid
-		cellsDo: [ :keyValue | 
+		do: [ :keyValue | 
 			self renderCell: keyValue value.
 			keyValue key x = aGrid columns
 				ifTrue: [ 

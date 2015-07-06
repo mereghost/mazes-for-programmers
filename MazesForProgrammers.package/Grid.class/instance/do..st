@@ -1,3 +1,3 @@
 as yet unclassified
-cellsDo: aBlock
+do: aBlock
 	cells associationsDo: aBlock

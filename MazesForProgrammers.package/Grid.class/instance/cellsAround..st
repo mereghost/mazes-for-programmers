@@ -4,6 +4,6 @@ cellsAround: aPoint
 	neighbours := Dictionary new.
 	#(#north #east #west #south)
 		do: [ :direction | 
-			cell := self cellAt: aPoint + (GridDirection directionFor: direction) vector.
+			cell := cells at: aPoint + (GridDirection directionFor: direction) vector ifAbsent: [  ].
 			cell ifNotNil: [ neighbours at: direction put: cell ] ].
 	^ neighbours

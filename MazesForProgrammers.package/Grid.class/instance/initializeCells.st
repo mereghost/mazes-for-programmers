@@ -1,3 +1,3 @@
 private
 initializeCells
-	1 to: rows do: [ :row | 1 to: columns do: [ :col | cells at: col @ row put: Cell new ] ]
+	rows to: 1 by: -1 do: [ :row | 1 to: columns do: [ :col | cells at: col @ row put: Cell new ] ]
