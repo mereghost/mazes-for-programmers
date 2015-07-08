@@ -1,3 +1,3 @@
 as yet unclassified
 neighboursOf: aPoint forDirections: aCollection
-	^ (self cellsAround: aPoint) associationsSelect: [ :keyValue | aCollection includes: keyValue key ]
+	^ (self cellsAround: aPoint) keys select: [ :direction | aCollection includes: direction ]

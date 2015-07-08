@@ -1,5 +1,5 @@
 {
-	"category" : "MazesForProgrammers-Models",
+	"category" : "MazesForProgrammers-Generators",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "GridDirection",
+	"name" : "Sidewinder",
 	"pools" : [
 		 ],
 	"super" : "Object",

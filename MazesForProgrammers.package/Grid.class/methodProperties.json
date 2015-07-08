@@ -2,14 +2,14 @@
 	"class" : {
 		"newWithRows:andColumns:" : "MarcelloRocha 7/4/2015 10:58" },
 	"instance" : {
-		"at:tunnelTowards:" : "MarcelloRocha 7/6/2015 15:34",
-		"cellAt:of:" : "MarcelloRocha 7/6/2015 15:34",
+		"at:tunnelTowards:" : "MarcelloRocha 7/8/2015 15:57",
+		"cellAt:of:" : "MarcelloRocha 7/8/2015 13:39",
 		"cellsAround:" : "MarcelloRocha 7/6/2015 15:31",
 		"columns" : "MarcelloRocha 7/6/2015 02:58",
 		"columns:" : "MarcelloRocha 7/4/2015 11:00",
 		"do:" : "MarcelloRocha 7/6/2015 15:33",
 		"initialize" : "MarcelloRocha 7/6/2015 01:15",
 		"initializeCells" : "MarcelloRocha 7/6/2015 15:18",
-		"neighboursOf:forDirections:" : "MarcelloRocha 7/6/2015 02:39",
+		"neighboursOf:forDirections:" : "MarcelloRocha 7/8/2015 16:41",
 		"rows:" : "MarcelloRocha 7/4/2015 11:00",
 		"size" : "MarcelloRocha 7/4/2015 11:08" } }
