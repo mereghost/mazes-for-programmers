@@ -1,0 +1,14 @@
+{
+	"category" : "MazesForProgrammers-Renderers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GraphicRenderer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

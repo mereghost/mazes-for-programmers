@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"calculateOffsetFor:on:" : "MarcelloRocha 7/11/2015 15:22",
+		"cellMorphFor:" : "MarcelloRocha 7/11/2015 14:20",
+		"createGridMorphFor:" : "MarcelloRocha 7/11/2015 14:18",
+		"initialize" : "MarcelloRocha 7/11/2015 14:02",
+		"render:" : "MarcelloRocha 7/11/2015 15:18",
+		"render:withDistances:" : "MarcelloRocha 7/10/2015 22:04" } }

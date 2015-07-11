@@ -1,0 +1,14 @@
+{
+	"category" : "MazesForProgrammers-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CellBorder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
