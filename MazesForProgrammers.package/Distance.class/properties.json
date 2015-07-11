@@ -1,14 +1,14 @@
 {
-	"category" : "MazesForProgrammers-Models",
+	"category" : "MazesForProgrammers-Solvers",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"walls",
-		"passages" ],
-	"name" : "Cell",
+		"root",
+		"cells" ],
+	"name" : "Distance",
 	"pools" : [
 		 ],
 	"super" : "Object",

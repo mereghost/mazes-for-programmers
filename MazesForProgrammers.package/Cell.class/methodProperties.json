@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "MarcelloRocha 7/5/2015 13:29",
-		"toggleWallFor:" : "MarcelloRocha 7/5/2015 13:34",
-		"walls" : "MarcelloRocha 7/5/2015 14:07" } }
+		"initialize" : "MarcelloRocha 7/10/2015 13:29",
+		"passages" : "MarcelloRocha 7/10/2015 13:29",
+		"toggleWallFor:" : "MarcelloRocha 7/10/2015 13:28",
+		"walls" : "MarcelloRocha 7/8/2015 17:22:51" } }

@@ -1,15 +1,18 @@
 {
 	"class" : {
-		"newWithRows:andColumns:" : "MarcelloRocha 7/4/2015 10:58" },
+		"newWithRows:andColumns:" : "MarcelloRocha 7/8/2015 17:22:51" },
 	"instance" : {
-		"at:tunnelTowards:" : "MarcelloRocha 7/8/2015 15:57",
-		"cellAt:of:" : "MarcelloRocha 7/8/2015 13:39",
-		"cellsAround:" : "MarcelloRocha 7/6/2015 15:31",
-		"columns" : "MarcelloRocha 7/6/2015 02:58",
-		"columns:" : "MarcelloRocha 7/4/2015 11:00",
-		"do:" : "MarcelloRocha 7/6/2015 15:33",
-		"initialize" : "MarcelloRocha 7/6/2015 01:15",
-		"initializeCells" : "MarcelloRocha 7/6/2015 15:18",
-		"neighboursOf:forDirections:" : "MarcelloRocha 7/8/2015 16:41",
-		"rows:" : "MarcelloRocha 7/4/2015 11:00",
-		"size" : "MarcelloRocha 7/4/2015 11:08" } }
+		"at:tunnelTowards:" : "MarcelloRocha 7/8/2015 17:22:51",
+		"cellAt:of:" : "MarcelloRocha 7/8/2015 17:22:51",
+		"cells" : "MarcelloRocha 7/10/2015 12:28",
+		"cellsAround:" : "MarcelloRocha 7/8/2015 17:22:51",
+		"columns" : "MarcelloRocha 7/8/2015 17:22:51",
+		"columns:" : "MarcelloRocha 7/8/2015 17:22:51",
+		"do:" : "MarcelloRocha 7/8/2015 17:22:51",
+		"initialize" : "MarcelloRocha 7/8/2015 17:22:51",
+		"initializeCells" : "MarcelloRocha 7/8/2015 17:22:51",
+		"neighboursOf:forDirections:" : "MarcelloRocha 7/8/2015 17:22:51",
+		"passagesFrom:do:" : "MarcelloRocha 7/10/2015 13:33",
+		"rows" : "MarcelloRocha 7/10/2015 11:19",
+		"rows:" : "MarcelloRocha 7/8/2015 17:22:51",
+		"size" : "MarcelloRocha 7/8/2015 17:22:51" } }
