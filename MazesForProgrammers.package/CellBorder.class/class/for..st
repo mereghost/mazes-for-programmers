@@ -1,3 +1,9 @@
 instance creation
 for: aDirection
-	^ (self subclasses detect: [ :klass | klass direction = aDirection ]) asLineMorph
+	| klass |
+	klass := self subclasses detect: [ :cls | cls direction = aDirection ].
+	^ klass
+		from: klass startPoint
+		to: klass endPoint
+		color: Color black
+		width: klass borderSize

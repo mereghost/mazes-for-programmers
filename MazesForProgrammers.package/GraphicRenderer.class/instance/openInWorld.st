@@ -1,0 +1,3 @@
+display
+openInWorld
+	gridMorph openInWorld 

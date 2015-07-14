@@ -7,7 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"root",
-		"cells" ],
+		"grid",
+		"distances" ],
 	"name" : "Distance",
 	"pools" : [
 		 ],

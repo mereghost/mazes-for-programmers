@@ -1,3 +1,3 @@
 accessing
 endPoint
-	^ 1 @ (CellMorph cellExtent y - 1)
+	^ 0 @ (CellMorph cellExtent y - self borderOffset y)

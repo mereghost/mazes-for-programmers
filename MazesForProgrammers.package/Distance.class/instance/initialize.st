@@ -1,3 +1,3 @@
 initialization
 initialize
-	cells := OrderedDictionary new.
+	distances := OrderedDictionary new.

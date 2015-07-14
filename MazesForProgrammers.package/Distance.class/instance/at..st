@@ -1,3 +1,3 @@
 accessing
 at: aPoint
-	^ cells at: aPoint
+	^ distances at: aPoint

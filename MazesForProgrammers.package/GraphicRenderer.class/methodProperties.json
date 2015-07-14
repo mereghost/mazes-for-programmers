@@ -4,7 +4,9 @@
 	"instance" : {
 		"calculateOffsetFor:on:" : "MarcelloRocha 7/11/2015 15:22",
 		"cellMorphFor:" : "MarcelloRocha 7/11/2015 14:20",
-		"createGridMorphFor:" : "MarcelloRocha 7/11/2015 14:18",
-		"initialize" : "MarcelloRocha 7/11/2015 14:02",
-		"render:" : "MarcelloRocha 7/11/2015 15:18",
-		"render:withDistances:" : "MarcelloRocha 7/10/2015 22:04" } }
+		"createGridMorph:usingCellRenderBlock:" : "MarcelloRocha 7/14/2015 02:30",
+		"createGridMorphFor:" : "MarcelloRocha 7/14/2015 03:19",
+		"openInWorld" : "MarcelloRocha 7/13/2015 21:05",
+		"prepareGrid:" : "MarcelloRocha 7/13/2015 21:04",
+		"render:" : "MarcelloRocha 7/14/2015 02:17",
+		"render:withDistances:" : "MarcelloRocha 7/14/2015 02:32" } }

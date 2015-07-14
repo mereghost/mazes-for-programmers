@@ -1,3 +1,3 @@
 accessing
 startPoint
-	^ (CellMorph cellExtent x - 1) @ 1
+	^ (CellMorph cellExtent x - self borderOffset x) @ 0

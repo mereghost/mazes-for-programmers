@@ -1,9 +1,12 @@
 {
 	"class" : {
-		 },
+		"for:root:" : "MarcelloRocha 7/14/2015 03:05" },
 	"instance" : {
-		"at:" : "MarcelloRocha 7/10/2015 13:55",
-		"cells" : "MarcelloRocha 7/10/2015 12:10",
-		"computeDistancesFor:startingAt:" : "MarcelloRocha 7/10/2015 13:21",
-		"initialize" : "MarcelloRocha 7/10/2015 12:09",
-		"root:" : "MarcelloRocha 7/10/2015 12:10" } }
+		"at:" : "MarcelloRocha 7/14/2015 02:58",
+		"cells" : "MarcelloRocha 7/14/2015 02:58",
+		"computeDistances" : "MarcelloRocha 7/14/2015 03:03",
+		"computeDistancesFrom:" : "MarcelloRocha 7/14/2015 03:02",
+		"grid" : "MarcelloRocha 7/14/2015 03:00",
+		"grid:" : "MarcelloRocha 7/14/2015 03:00",
+		"initialize" : "MarcelloRocha 7/14/2015 02:58",
+		"root:" : "MarcelloRocha 7/14/2015 02:58" } }

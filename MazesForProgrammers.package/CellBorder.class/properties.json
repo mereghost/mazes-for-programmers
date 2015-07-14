@@ -10,5 +10,5 @@
 	"name" : "CellBorder",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "LineMorph",
 	"type" : "normal" }

@@ -1,3 +1,10 @@
 rendering
 render: aGrid withDistances: aDistance
-	^ nil
+	| cellMorph |
+	self
+		createGridMorph: aGrid
+		usingCellRenderBlock: [ :point :cell | 
+			cellMorph := self cellMorphFor: cell.
+			cellMorph addLabelWithString: (aDistance at: point) asString.
+			cellMorph ].
+	^ gridMorph
