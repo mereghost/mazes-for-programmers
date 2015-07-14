@@ -5,7 +5,9 @@ render: aGrid withDistances: aDistance
 	bottomBuffer nextPut: $+.
 	aGrid
 		do: [ :keyValue | 
-			self renderCell: keyValue value withDistance: (aDistance at: keyValue key).
+			(aDistance at: keyValue key)
+				ifNil: [ self renderCell: keyValue value ]
+				ifNotNil: [ self renderCell: keyValue value withDistance: (aDistance at: keyValue key) ].
 			keyValue key x = aGrid columns
 				ifTrue: [ 
 					gridBuffer

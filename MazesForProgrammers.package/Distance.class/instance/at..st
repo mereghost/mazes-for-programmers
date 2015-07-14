@@ -1,3 +1,3 @@
 accessing
 at: aPoint
-	^ distances at: aPoint
+	^ distances at: aPoint ifAbsent: [  ]

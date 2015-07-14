@@ -1,7 +1,6 @@
 as yet unclassified
 computeDistances
-	grid
-		passagesFrom: root
+	(grid passagesFrom: root)
 		do: [ :point | 
 			distances
 				at: point

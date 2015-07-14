@@ -2,11 +2,12 @@
 	"class" : {
 		"for:root:" : "MarcelloRocha 7/14/2015 03:05" },
 	"instance" : {
-		"at:" : "MarcelloRocha 7/14/2015 02:58",
-		"cells" : "MarcelloRocha 7/14/2015 02:58",
-		"computeDistances" : "MarcelloRocha 7/14/2015 03:03",
-		"computeDistancesFrom:" : "MarcelloRocha 7/14/2015 03:02",
-		"grid" : "MarcelloRocha 7/14/2015 03:00",
+		"at:" : "MarcelloRocha 7/14/2015 14:41",
+		"at:put:" : "MarcelloRocha 7/14/2015 12:16",
+		"calculatePathTo:into:" : "MarcelloRocha 7/14/2015 14:43",
+		"computeDistances" : "MarcelloRocha 7/14/2015 13:16",
+		"computeDistancesFrom:" : "MarcelloRocha 7/14/2015 13:16",
 		"grid:" : "MarcelloRocha 7/14/2015 03:00",
 		"initialize" : "MarcelloRocha 7/14/2015 02:58",
+		"pathTo:" : "MarcelloRocha 7/14/2015 14:39",
 		"root:" : "MarcelloRocha 7/14/2015 02:58" } }
