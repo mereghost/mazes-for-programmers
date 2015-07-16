@@ -1,8 +1,8 @@
-as yet unclassified
+calculating
 pathTo: aPoint
 	| breadcrumbs |
 	self computeDistances.
-	breadcrumbs := Distance new
+	breadcrumbs := self class new
 		grid: grid;
 		root: root;
 		yourself.

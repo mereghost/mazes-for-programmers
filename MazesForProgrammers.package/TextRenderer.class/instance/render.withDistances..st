@@ -1,4 +1,4 @@
-as yet unclassified
+rendering
 render: aGrid withDistances: aDistance
 	self addTopRow: aGrid columns.
 	bodyBuffer nextPut: $|.

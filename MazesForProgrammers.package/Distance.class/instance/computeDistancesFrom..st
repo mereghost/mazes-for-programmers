@@ -1,4 +1,4 @@
-as yet unclassified
+calculating
 computeDistancesFrom: aPoint
 	(grid passagesFrom: aPoint)
 		do: [ :point | 

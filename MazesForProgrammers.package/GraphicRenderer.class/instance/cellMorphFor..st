@@ -1,3 +1,3 @@
 private
 cellMorphFor: aCell
-	^ CellMorph new addBordersForDirections: aCell walls.
+	^ CellMorph new addBordersForDirections: aCell walls

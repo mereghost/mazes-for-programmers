@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 on: aGrid
 	| run neighbours east_boundary north_boundary should_close_run |
 	run := OrderedCollection new.

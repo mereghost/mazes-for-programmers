@@ -1,4 +1,4 @@
-as yet unclassified
+calculating
 calculatePathTo: aPoint into: aDistance
 	| nearest |
 	nearest := (grid passagesFrom: aPoint) detect: [ :point | (distances at: point) < (distances at: aPoint) ].

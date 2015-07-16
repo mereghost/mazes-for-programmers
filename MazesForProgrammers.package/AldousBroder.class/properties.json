@@ -1,15 +1,13 @@
 {
-	"category" : "MazesForProgrammers-Renderers",
+	"category" : "MazesForProgrammers-Generators",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"gridMorph",
-		"grid",
-		"distances" ],
-	"name" : "GraphicRenderer",
+		"visited" ],
+	"name" : "AldousBroder",
 	"pools" : [
 		 ],
 	"super" : "Object",

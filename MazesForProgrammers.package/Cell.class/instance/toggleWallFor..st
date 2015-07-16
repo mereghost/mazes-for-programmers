@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 toggleWallFor: aSymbol
 	(walls includes: aSymbol)
 		ifTrue: [ 

@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addTopRow:" : "MarcelloRocha 7/8/2015 17:22:51",
-		"initialize" : "MarcelloRocha 7/10/2015 14:45",
-		"render:" : "MarcelloRocha 7/8/2015 17:22:51",
-		"render:withDistances:" : "MarcelloRocha 7/14/2015 14:42",
-		"renderCell:" : "MarcelloRocha 7/8/2015 17:22:51",
-		"renderCell:withDistance:" : "MarcelloRocha 7/14/2015 03:21" } }
+		"addTopRow:" : "mereghost 7/14/2015 14:48:29",
+		"initialize" : "mereghost 7/14/2015 14:48:29",
+		"render:" : "mereghost 7/14/2015 14:48:29",
+		"render:withDistances:" : "mereghost 7/14/2015 14:48:29",
+		"renderCell:" : "mereghost 7/14/2015 14:48:29",
+		"renderCell:withDistance:" : "mereghost 7/14/2015 14:48:29" } }

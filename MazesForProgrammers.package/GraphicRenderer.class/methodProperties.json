@@ -1,12 +1,15 @@
 {
 	"class" : {
-		 },
+		"for:withDistance:" : "MarcelloRocha 7/15/2015 18:52" },
 	"instance" : {
-		"calculateOffsetFor:on:" : "MarcelloRocha 7/11/2015 15:22",
-		"cellMorphFor:" : "MarcelloRocha 7/11/2015 14:20",
-		"createGridMorph:usingCellRenderBlock:" : "MarcelloRocha 7/14/2015 02:30",
-		"createGridMorphFor:" : "MarcelloRocha 7/14/2015 03:19",
-		"openInWorld" : "MarcelloRocha 7/13/2015 21:05",
-		"prepareGrid:" : "MarcelloRocha 7/13/2015 21:04",
-		"render:" : "MarcelloRocha 7/14/2015 02:17",
-		"render:withDistances:" : "MarcelloRocha 7/14/2015 14:45" } }
+		"backgroundColorAt:" : "MarcelloRocha 7/15/2015 19:12",
+		"calculateOffsetFor:on:" : "mereghost 7/14/2015 14:48:29",
+		"cellMorphFor:" : "MarcelloRocha 7/15/2015 18:47",
+		"createGridMorph:usingCellRenderBlock:" : "mereghost 7/14/2015 14:48:29",
+		"createGridMorphFor:" : "mereghost 7/14/2015 14:48:29",
+		"distance:" : "MarcelloRocha 7/15/2015 18:54",
+		"grid:" : "MarcelloRocha 7/15/2015 18:54",
+		"openInWorld" : "mereghost 7/14/2015 14:48:29",
+		"prepareGrid:" : "mereghost 7/14/2015 14:48:29",
+		"render:" : "mereghost 7/14/2015 14:48:29",
+		"renderWithDistances" : "MarcelloRocha 7/15/2015 19:16" } }
