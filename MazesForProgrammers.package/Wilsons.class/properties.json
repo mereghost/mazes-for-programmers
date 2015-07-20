@@ -1,0 +1,14 @@
+{
+	"category" : "MazesForProgrammers-Generators",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"unvisited" ],
+	"name" : "Wilsons",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,6 +1,6 @@
 instance creation
 on: aGrid
-	| generator  |
+	| generator |
 	generator := self new.
-	generator visit: (aGrid randomPoint) from: aGrid.
+	generator visit: aGrid randomPoint from: aGrid.
 	^ aGrid
