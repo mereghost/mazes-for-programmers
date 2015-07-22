@@ -3,7 +3,7 @@ on: aGrid
 	| generator |
 	generator := self new.
 	generator loadCoordinatesOf: aGrid.
-	generator tunnelThru: aGrid.
+	generator generate.
 	^ aGrid	"	
 	unvisited addAll: aGrid cells keys.
 	first := aGrid randomPoint.

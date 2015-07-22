@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"unvisited" ],
+		"unvisited",
+		"grid" ],
 	"name" : "Wilsons",
 	"pools" : [
 		 ],

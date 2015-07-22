@@ -1,9 +1,9 @@
 {
 	"class" : {
-		"on:" : "MarcelloRocha 7/16/2015 13:36" },
+		"on:" : "MarcelloRocha 7/22/2015 14:37" },
 	"instance" : {
-		"initialize" : "MarcelloRocha 7/16/2015 13:35",
-		"linkCellsFor:on:" : "MarcelloRocha 7/16/2015 14:47",
-		"loadCoordinatesOf:" : "MarcelloRocha 7/16/2015 13:00",
-		"tunnelThru:" : "MarcelloRocha 7/20/2015 15:37",
-		"visit:from:withPath:" : "MarcelloRocha 7/16/2015 15:34" } }
+		"generate" : "MarcelloRocha 7/22/2015 14:39",
+		"initialize" : "mereghost 7/20/2015 15:38:42",
+		"loadCoordinatesOf:" : "MarcelloRocha 7/22/2015 14:40",
+		"openPath:" : "MarcelloRocha 7/22/2015 14:38",
+		"randomWalkStartingAt:" : "MarcelloRocha 7/22/2015 14:38" } }

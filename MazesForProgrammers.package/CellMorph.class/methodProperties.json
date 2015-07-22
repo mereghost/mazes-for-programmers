@@ -1,8 +1,8 @@
 {
 	"class" : {
-		"cellExtent" : "mereghost 7/14/2015 14:48:29" },
+		"cellExtent" : "MarcelloRocha 7/11/2015 13:38" },
 	"instance" : {
-		"addBordersForDirections:" : "mereghost 7/14/2015 14:48:29",
-		"addLabelWithString:" : "mereghost 7/14/2015 14:48:29",
-		"backgroundColor:" : "MarcelloRocha 7/15/2015 19:01",
-		"initialize" : "mereghost 7/14/2015 14:48:29" } }
+		"addBordersForDirections:" : "MarcelloRocha 7/11/2015 14:36",
+		"addLabelWithString:" : "MarcelloRocha 7/14/2015 02:52",
+		"backgroundColor:" : "mereghost 7/16/2015 03:28:25",
+		"initialize" : "MarcelloRocha 7/11/2015 14:23" } }
