@@ -1,14 +1,14 @@
 {
 	"class" : {
-		"for:root:" : "MarcelloRocha 7/14/2015 03:05" },
+		"for:root:" : "mereghost 7/14/2015 14:48:29" },
 	"instance" : {
-		"at:" : "MarcelloRocha 7/14/2015 14:41",
-		"at:put:" : "mereghost 7/16/2015 03:28:25",
-		"calculatePathTo:into:" : "mereghost 7/16/2015 03:28:25",
-		"computeDistances" : "mereghost 7/16/2015 03:28:25",
-		"computeDistancesFrom:" : "mereghost 7/16/2015 03:28:25",
-		"grid:" : "MarcelloRocha 7/14/2015 03:00",
-		"initialize" : "MarcelloRocha 7/14/2015 02:58",
-		"max" : "mereghost 7/16/2015 03:28:25",
-		"pathTo:" : "mereghost 7/16/2015 03:28:25",
-		"root:" : "MarcelloRocha 7/14/2015 02:58" } }
+		"at:" : "mereghost 7/14/2015 14:48:29",
+		"at:put:" : "mereghost 7/14/2015 14:48:29",
+		"calculatePathTo:into:" : "mereghost 7/14/2015 14:48:29",
+		"computeDistances" : "mereghost 7/14/2015 14:48:29",
+		"computeDistancesFrom:" : "mereghost 7/14/2015 14:48:29",
+		"grid:" : "mereghost 7/14/2015 14:48:29",
+		"initialize" : "mereghost 7/14/2015 14:48:29",
+		"max" : "MarcelloRocha 7/15/2015 18:58",
+		"pathTo:" : "MarcelloRocha 7/16/2015 03:26",
+		"root:" : "mereghost 7/14/2015 14:48:29" } }
