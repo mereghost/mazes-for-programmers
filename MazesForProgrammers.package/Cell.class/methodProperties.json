@@ -2,7 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "mereghost 7/14/2015 14:48:29",
-		"passages" : "mereghost 7/14/2015 14:48:29",
-		"toggleWallFor:" : "mereghost 7/14/2015 14:48:29",
-		"walls" : "mereghost 7/14/2015 14:48:29" } }
+		"closed" : "MarcelloRocha 1/17/2017 22:42",
+		"initialize" : "MarcelloRocha 7/10/2015 13:29",
+		"open" : "MarcelloRocha 1/17/2017 22:43",
+		"passages" : "MarcelloRocha 7/10/2015 13:29",
+		"toggleWallFor:" : "mereghost 7/16/2015 03:28:25",
+		"walls" : "MarcelloRocha 7/8/2015 17:22:51" } }

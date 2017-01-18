@@ -1,4 +1,4 @@
-as yet unclassified
+visitor
 visit: aPoint from: aGrid
 	| direction newCoordinate |
 	visited add: aPoint.

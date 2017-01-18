@@ -1,3 +1,3 @@
 display
 openInWorld
-	gridMorph openInWorld 
+	gridMorph openInWindow 

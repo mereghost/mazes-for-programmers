@@ -1,3 +1,3 @@
 initialization
 initialize
-	unvisited := OrderedCollection new.
+	unvisited := OrderedCollection new
