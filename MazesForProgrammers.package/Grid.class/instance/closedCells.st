@@ -1,3 +1,3 @@
 as yet unclassified
 closedCells
-	^ (cells collect: [ :assoc | assoc value closed ]) keys
+	^ (cells select: [ :assoc | assoc value closed ]) keys

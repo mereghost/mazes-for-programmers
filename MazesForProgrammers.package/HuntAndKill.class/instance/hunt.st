@@ -1,13 +1,10 @@
 as yet unclassified
 hunt
-	| neighbour visitedNeighbours |
+	| neighbour point |
 	current := nil.
-	grid closedCells
-		detect: [ :point | 
-			visitedNeighbours := (grid openNeighboursAt: point) keys.
-			visitedNeighbours isNotEmpty
-				ifTrue: [ 
-					neighbour := visitedNeighbours shuffle first.
-					grid at: point tunnelTowards: neighbour.
-					^ current := point ]
-				ifFalse: [ false ] ]
+	point := grid closedCells detect: [ :location | (grid openNeighboursAt: location) keys isNotEmpty ] ifNone: [ nil ].
+	point isNotNil
+		ifTrue: [ 
+			neighbour := (grid openNeighboursAt: point) keys shuffle first.
+			grid at: point tunnelTowards: neighbour.
+			^ current := point ]
